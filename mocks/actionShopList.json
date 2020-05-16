@@ -1,0 +1,30 @@
+[
+    {
+        "name":"肯德基",
+        "address":"上海市宝山区",
+        "id":1,
+        "latude":"31.38098",
+        "longtude":"133.55",
+        "location":[
+            133.55,
+            31.38098
+        ],
+        "phone":"15219473044",
+        "categeory":"快餐便当/简餐",
+        "suspports":[
+            {
+                "description":"已加入外卖保计划",
+                "icon_color":"999999",
+                "icon_name":"保",
+                "id":7,
+                "name":"外卖保",
+                "_id":534565434567
+            }
+        ],
+        "status":0,
+        "recent_order_num":615,
+        "rating_count":389,
+        "rating":1.6
+    
+    }
+]
